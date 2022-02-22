@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 function App() {
 
   return (
-    <VStack p={"9px"}>
+    <VStack p={"8px"}>
       <Navbar />
     </VStack>
   );
